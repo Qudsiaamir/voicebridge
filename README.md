@@ -1,4 +1,4 @@
-# Realtime Translation
+# VoiceBridge
 
 A Python prototype for text and speech translation using Hugging Face translation models, Google Speech Recognition, and text-to-speech.
 
