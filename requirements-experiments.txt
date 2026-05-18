@@ -1,0 +1,11 @@
+-r requirements.txt
+jupyter
+numpy
+sounddevice
+wavio
+torchaudio
+fairseq
+
+# CuPy packages are CUDA-version specific and are not pinned here.
+# Install one that matches your machine,
+# for example: cupy-cuda12x

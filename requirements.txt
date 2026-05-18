@@ -1,0 +1,9 @@
+torch
+transformers
+sentencepiece
+sacremoses
+SpeechRecognition
+PyAudio
+pyttsx3
+langdetect
+googletrans==4.0.0rc1
